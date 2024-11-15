@@ -3,3 +3,5 @@ Optimises Audiobooks to perform their best on AudioBookshelf or BookSonic server
 
 
 This fork will focus on adding automatic renaming and sorting functionality to the otiginal script. 
+
+## W.I.P. not yet functional.
